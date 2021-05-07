@@ -1,0 +1,10 @@
+Dataviz : 4
+Data Discovery : 3
+Collabo : 4
+Exhaustivité des algo : 2
+Accès aux algo : 3
+In memory : 3
+Automatisation : 3
+Machine Learning : 3
+Temps réel : 3
+Recherche avancée : 3
